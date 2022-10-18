@@ -18,5 +18,7 @@ Serta beberapa fungsi :</br>
 * react</br></br>
 
 # PEMASANGAN APLIKASI
-1. Unduh aplikasi dengan cara menekan link [ini](https://).
-2. Buka menu pengaturan pada gadget anda.
+1. Unduh aplikasi dengan cara menekan link [ini](https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40kaf.simbolon/snack-9337eccb-6c9e-44ff-884d-0857da519ea7-ec9b3d385a1c405f8b767247265e7fd1-signed.apk).
+2. Masuk ke folder tempat aplikasi terunduh.
+3. Buka berkas aplikasi yang telah di unduh dan pasang aplikasi diperangkat anda.
+4. Aplikasi siap digunakan.
